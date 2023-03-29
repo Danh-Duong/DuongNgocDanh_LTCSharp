@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YIIRI8yVnbmUbexJZdx8ZsjEu83yFR1LWjK/QT6BFglQzaasx5XV0Iu2/MNmXSsoy8oDmqWOwXVOTACWtFcOuw==",
+  "dgSpecHash": "PtI0JW/c31LE1ukL7qV02/HvEJu4I3bWViExPNrAa77AWdFhtOQg/YKTe83H+chXUwKlA3mpPwNbGwIkoq/1IA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\win\\Documents\\Code\\HK2-Nam2\\LaptrinhC#\\EFwithRazor\\ContosoUniversity\\ContosoUniversity\\ContosoUniversity.csproj",
+  "projectFilePath": "C:\\Users\\win\\Documents\\Code\\HK2-Nam2\\LaptrinhC#\\ORM\\ContosoUniversity\\ContosoUniversity\\ContosoUniversity.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\win\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\win\\.nuget\\packages\\messagepack\\2.1.152\\messagepack.2.1.152.nupkg.sha512",

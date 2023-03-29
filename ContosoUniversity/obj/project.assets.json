@@ -10057,11 +10057,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\win\\Documents\\Code\\HK2-Nam2\\LaptrinhC#\\EFwithRazor\\ContosoUniversity\\ContosoUniversity\\ContosoUniversity.csproj",
+      "projectUniqueName": "C:\\Users\\win\\Documents\\Code\\HK2-Nam2\\LaptrinhC#\\ORM\\ContosoUniversity\\ContosoUniversity\\ContosoUniversity.csproj",
       "projectName": "ContosoUniversity",
-      "projectPath": "C:\\Users\\win\\Documents\\Code\\HK2-Nam2\\LaptrinhC#\\EFwithRazor\\ContosoUniversity\\ContosoUniversity\\ContosoUniversity.csproj",
+      "projectPath": "C:\\Users\\win\\Documents\\Code\\HK2-Nam2\\LaptrinhC#\\ORM\\ContosoUniversity\\ContosoUniversity\\ContosoUniversity.csproj",
       "packagesPath": "C:\\Users\\win\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\win\\Documents\\Code\\HK2-Nam2\\LaptrinhC#\\EFwithRazor\\ContosoUniversity\\ContosoUniversity\\obj\\",
+      "outputPath": "C:\\Users\\win\\Documents\\Code\\HK2-Nam2\\LaptrinhC#\\ORM\\ContosoUniversity\\ContosoUniversity\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\win\\AppData\\Roaming\\NuGet\\NuGet.Config",
